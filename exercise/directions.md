@@ -6,8 +6,8 @@ In [functions_practice](function_practice.js), we will get some practice writing
 
 1.  Define a `youRock` function that accepts a string argument of a name and returns a string using that name.
 ```js
-youRock('Usman') // 'You rock Usman!'
-youRock('Moath') //'You rock Moath!'
+youRock('yassir') // 'You rock yassir!'
+youRock('ebere') //'You rock ebere!'
 ```
 
 2.  Define a `square` function that accepts a number argument and returns that number multipled by itself.
